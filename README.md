@@ -61,3 +61,9 @@ export default tseslint.config({
 - [@vitest/coverage-v8](https://www.npmjs.com/package/@vitest/coverage-v8)
 - [@vitest/ui](https://vitest.dev/guide/ui)
 - [Tailwindcss](https://tailwindcss.com/)
+
+---
+
+## 👤 Autor
+
+**Jordi Morillo Sells** — [LinkedIn](https://www.linkedin.com/in/jordi-morillo-sells/)
